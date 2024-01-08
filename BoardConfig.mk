@@ -10,7 +10,7 @@ DEVICE_PATH := device/alldocube/iPlay_50_mini_Pro
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
 
-# A/B
+# A/Bb
 AB_OTA_UPDATER := true
 AB_OTA_PARTITIONS += \
     system \
